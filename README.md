@@ -8,4 +8,4 @@ Geolocator
 Open weather api
 
 
-[preview] (https://github.com/Snape25/Weather_app/blob/main/20210530_214914.jpg)
+[preview] (https://raw.githubusercontent.com/Snape25/Weather_app/main/20210530_214914.jpg)
