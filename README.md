@@ -4,8 +4,7 @@ A weather app made using the flutter framework.
 
 # Api used
 
-Geolocator
-Open weather api
+Open weather api- https://openweathermap.org/api
 
-
-![screenshot] (/20210530_214914.jpg)
+# Preview
+<img src="20210530_214914.jpg">
